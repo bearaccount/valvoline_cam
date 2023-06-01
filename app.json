@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "react-native-camera-expo-example",
-    "slug": "react-native-camera-expo-example",
+    "name": "valvoline cam",
+    "slug": "valvoline-cam",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
